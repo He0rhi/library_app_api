@@ -1,5 +1,6 @@
 ---
 Link to deploy the application https://delicate-panda-da271f.netlify.app/
+DEPLOYMENT USING VPN ONLY!
 
 # Практического задание js/react
 
