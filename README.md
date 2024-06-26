@@ -1,3 +1,6 @@
+---
+Link to deploy the application https://delicate-panda-da271f.netlify.app/
+
 # Практического задание js/react
 
 ## Задание
